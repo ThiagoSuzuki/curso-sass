@@ -133,7 +133,7 @@ body .header-social-media ul li a:hover {
   color: #000;
 }
 .gallery #card-1 {
-  background-image: url("../img/animais.jpg");
+  background-image: url("../img/animais.webp");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -143,10 +143,10 @@ body .header-social-media ul li a:hover {
 .gallery #card-1:hover {
   background-size: 110%;
   filter: grayscale(0%);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/animais.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/animais.webp");
 }
 .gallery #card-2 {
-  background-image: url("../img/arquitetura.jpg");
+  background-image: url("../img/arquitetura.webp");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -156,10 +156,10 @@ body .header-social-media ul li a:hover {
 .gallery #card-2:hover {
   background-size: 110%;
   filter: grayscale(0%);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/arquitetura.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/arquitetura.webp");
 }
 .gallery #card-3 {
-  background-image: url("../img/cidade.jpg");
+  background-image: url("../img/cidade.webp");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -169,10 +169,10 @@ body .header-social-media ul li a:hover {
 .gallery #card-3:hover {
   background-size: 110%;
   filter: grayscale(0%);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/cidade.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/cidade.webp");
 }
 .gallery #card-4 {
-  background-image: url("../img/decoracao.jpg");
+  background-image: url("../img/decoracao.webp");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -182,10 +182,10 @@ body .header-social-media ul li a:hover {
 .gallery #card-4:hover {
   background-size: 110%;
   filter: grayscale(0%);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/decoracao.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/decoracao.webp");
 }
 .gallery #card-5 {
-  background-image: url("../img/esportes.jpg");
+  background-image: url("../img/esportes.webp");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -195,10 +195,10 @@ body .header-social-media ul li a:hover {
 .gallery #card-5:hover {
   background-size: 110%;
   filter: grayscale(0%);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/esportes.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/esportes.webp");
 }
 .gallery #card-6 {
-  background-image: url("../img/natureza.jpg");
+  background-image: url("../img/natureza.webp");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -208,10 +208,10 @@ body .header-social-media ul li a:hover {
 .gallery #card-6:hover {
   background-size: 110%;
   filter: grayscale(0%);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/natureza.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/natureza.webp");
 }
 .gallery #card-7 {
-  background-image: url("../img/paisagem.jpg");
+  background-image: url("../img/paisagem.webp");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -221,10 +221,10 @@ body .header-social-media ul li a:hover {
 .gallery #card-7:hover {
   background-size: 110%;
   filter: grayscale(0%);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/paisagem.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/paisagem.webp");
 }
 .gallery #card-8 {
-  background-image: url("../img/pessoas.jpg");
+  background-image: url("../img/pessoas.webp");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -234,10 +234,10 @@ body .header-social-media ul li a:hover {
 .gallery #card-8:hover {
   background-size: 110%;
   filter: grayscale(0%);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/pessoas.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/pessoas.webp");
 }
 .gallery #card-9 {
-  background-image: url("../img/refeicoes.jpg");
+  background-image: url("../img/refeicoes.webp");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -247,7 +247,7 @@ body .header-social-media ul li a:hover {
 .gallery #card-9:hover {
   background-size: 110%;
   filter: grayscale(0%);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/refeicoes.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/refeicoes.webp");
 }
 
 footer {
